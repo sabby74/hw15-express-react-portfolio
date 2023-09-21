@@ -1,14 +1,14 @@
 [
-    {
-      "name": "Project-1",
-      "live": "https://project-2-soumyasonlinestore.onrender.com",
-      "git": "https://github.com/sabby74/project-2",
-      "image": "http://www.imgur.com/pictureofproject.png"
-    },
-    {
-      "name": "Project-2",
-      "live": "https://jeansapp.onrender.com",
-      "git": "https://github.com/sabby74/jeansapp-react-frontend",
-      "image": "http://www.imgur.com/pictureofproject.png"
-    }
-  ]
+  {
+    "name": "Project-1 - Soumya's Online Store",
+    "live": "https://project-2-soumyasonlinestore.onrender.com",
+    "git": "https://github.com/sabby74/project-2",
+    "image": "https://imgur.com/urJNgR4"
+  },
+  {
+    "name": "Project-2 - jeansapp",
+    "live": "https://jeansapp.onrender.com",
+    "git": "https://github.com/sabby74/jeansapp-react-frontend",
+    "image": "https://lscoecomm.scene7.com/is/image/lscoecomm/23%20FEB%20APP%20Landing%20Pg%20Update_SITE_ST_50_50?fmt=jpeg&qlt=70&resMode=bisharp&fit=crop,0&op_usm=0.6,0.6,8&wid=1360&hei=1700"
+  }
+]
