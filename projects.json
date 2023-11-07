@@ -34,5 +34,11 @@
     "live": "https://carmechanic.onrender.com",
     "git": "https://github.com/sabby74/own-login-signup-mern-frontend.git",
     "image": "https://img.freepik.com/free-photo/muscular-car-service-worker-repairing-vehicle_146671-19705.jpg"
+  },
+  {
+    "name": "Project-7:  Petty Planner",
+    "live": "https://auth-petty-planner.onrender.com",
+    "git": "https://github.com/sabby74/drf-auth-toplan-backend.git",
+    "image": "https://lightsplanneraction.co/cdn/shop/files/IMG_4135.jpg?v=1691123066"
   }
 ]
