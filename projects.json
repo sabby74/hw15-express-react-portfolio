@@ -40,5 +40,11 @@
     "live": "https://auth-petty-planner.onrender.com",
     "git": "https://github.com/sabby74/drf-auth-toplan-backend.git",
     "image": "https://lightsplanneraction.co/cdn/shop/files/IMG_4135.jpg?v=1691123066"
+  },
+  {
+    "name": "Project-8:  Personnel Explorer",
+    "live": "https://new-personnel-explorer.onrender.com",
+    "git": "https://github.com/sabby74/drfauth-explorer-cpstn-backend.git",
+    "image": "https://southportbid.com/wp-content/uploads/2020/07/Southport-Bid-2020-123.jpg"
   }
 ]
